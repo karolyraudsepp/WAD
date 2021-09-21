@@ -1,0 +1,112 @@
+body{
+background-image: url("../Pictures/proov1.jpg");
+margin: 0;
+}
+
+/*container stuff*/
+.container {
+min-height: 90vh;
+height: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+/*Login file things*/
+.login{  
+display: flex;
+align-items: center;
+justify-content: center;
+width: 382px;     
+padding: 80px;  
+background: white;  
+border-radius: 15px ; 
+margin: auto auto auto auto;
+text-align: center;    
+}  
+  
+#Uname{  
+width: 300px;  
+height: 30px;  
+border-color: black;  
+border-radius: 9px; 
+padding-left: 8px;  
+} 
+
+#Pass{  
+width: 300px;  
+height: 30px;  
+border-color: black;  
+border-radius: 9px;  
+padding-left: 8px;  
+  
+}  
+#log{  
+width: 200px;  
+height: 30px; 
+border: none; 
+border-radius: 17px;  
+padding-left: 7px;  
+background-color: blue;
+color: white; 
+} 
+
+#img2{
+width:25%;
+height: auto;
+}
+
+/*Navbar stuff*/
+nav { 
+display: flex;
+background-color: #ffffff; 
+align-items: center; 
+} 
+     
+nav div{ 
+height: 30px; 
+flex-grow: 4; 
+padding: 10px; 
+} 
+     
+nav div img { 
+height: 100%; 
+} 
+     
+nav div.search-container > input { 
+box-sizing: border-box; 
+height: 30px; 
+width: 80%; 
+margin: 0; 
+padding: 5px; 
+border: 1px solid #e0e0e0; 
+} 
+     
+nav div.search-container > button { 
+box-sizing: border-box; 
+height: 30px; 
+width: 20%; 
+margin: 0; 
+padding: 5px; 
+border: 1px solid #e0e0e0; 
+cursor: pointer; 
+background-color: #e0e0e0; 
+}
+
+
+.navigation{
+position: fixed;
+width: 100%;
+top: 0;
+z-index: 100;
+}
+
+
+.navigation:hover{
+box-shadow: 0 0 30px rgba(33,33,33,.2);
+}
+
+
+#img3{
+text-align: right;
+}
+
