@@ -141,8 +141,9 @@ width: 60%;
   align-items: left;
 }
 
-div span {
-	text-align: right;
+div ~ span {
+	text-align: center;
+	color: #FF69B4;
 }
 
 span {	
@@ -152,4 +153,8 @@ span {
 
 div img {
 	cursor: pointer;
+}
+
+div + p {
+	color: #FF69B4;
 }
