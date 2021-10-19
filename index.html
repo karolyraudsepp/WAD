@@ -2,6 +2,7 @@
   <html lang="en">
 <head>
     <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="js/script.js"></script>
     <meta charset="UTF-8">
     <title>CatTinder</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,9 +16,19 @@
                 <div class = "search-container" >
                     <input type="text"><button>Search</button>
                 </div>
+               
                 <div id="img3">
-                    <img src="Pictures/profile.png" alt="CatTinder">
+                <div class="dropdown">
+                <div class="test">
+                <img src="Pictures/profile.png" onclick="myFunction()" class="dropbtn" alt="CatTinder">
+                    <div id="myDropdown" class="dropdown-content">
+                      <a  href="#">John Doe</a>
+                      <a  href="#">john.doe@example.com</a>
+                    </div>
+                  </div>
                 </div>
+            </div>
+           
             </nav>
         </header>
 

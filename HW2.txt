@@ -1,0 +1,11 @@
+
+Validate:
+https://jsonformatter.curiousconcept.com/#
+https://jsonlint.com/
+
+Store JSON file:
+https://www.npoint.io/
+https://jsonbin.io
+
+How to store photos:
+[  { "Image": "https://www.encodedna.com/images/theme/angularjs.png" } ]
