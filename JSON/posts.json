@@ -1,0 +1,68 @@
+[
+    {
+        "userID": 1,
+        "name": "sexyCat555",
+        "body": "Looking for someone to play with",
+        "picture": "Pictures/serious_cat.jpg"
+    },
+    {
+        "userID": 2,
+        "name": "name2",
+        "body": "body2",
+        "picture": "Pictures/formal_cat.jpg"
+    },
+    {
+        "userID": 3,
+        "name": "name3",
+        "body": "body3",
+        "picture": "Pictures/tourist_cat.jpg"
+    },
+    {
+        "userID": 4,
+        "name": "name4",
+        "body": "body4",
+        "picture": "Pictures/selfie_cat.jpg"
+    },
+    {
+        "userID": 5,
+        "name": "name3",
+        "body": "body3",
+        "picture": "Pictures/selfie_cat2.jpg"
+    },
+    {
+        "userID": 6,
+        "name": "name3",
+        "body": "body3",
+        "picture": "Pictures/beach_cat.jpg"
+    },
+    {
+        "userID": 7,
+        "name": "name3",
+        "body": "body3",
+        "picture": "Pictures/rich_cat.jpg"
+    },
+    {
+        "userID": 8,
+        "name": "name3",
+        "body": "body3",
+        "picture": "Pictures/thug_cat.jpg"
+    },
+    {
+        "userID": 9,
+        "name": "name3",
+        "body": "body3",
+        "picture": "Pictures/mystic_cat.jpg"
+    },
+    {
+        "userID": 10,
+        "name": "name3",
+        "body": "body3",
+        "picture": "Pictures/rich_cat2.jpg"
+    },
+    {
+        "userID": 11,
+        "name": "name3",
+        "body": "body3",
+        "picture": "Pictures/cat_wig.jpg"
+    }
+]
