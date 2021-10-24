@@ -18,11 +18,10 @@ function myFunction() {
   }
 
    $(function() {
-     //$.get("https://api.npoint.io/3427eb5cc1f62b180ff2", function(posts) {
-      $.get("JSON/posts.json", function(posts) {
+     $.get("https://api.npoint.io/14c722571461db560af8", function(posts) { //siin oli comment
+      //$.get("JSON/posts.json", function(posts) {
 
         for (post of posts) {
-
             let div = $('<div class= "name">');
             let title = $('<h1 class= "mdea">').text(post.name);
             let body = $('<p>').text(post.body);
